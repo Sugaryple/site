@@ -1,0 +1,12 @@
+# GitHub Pages 설정
+theme: minima
+title: SafeQR
+description: SafeQR - The Secure QR Code Scanner | Legal Documentation
+url: "https://Sugaryple.github.io"
+baseurl: "/site"
+
+# 네비게이션 메뉴
+header_pages:
+  - index.md
+  - privacy-policy.md
+  - terms-of-service.md 

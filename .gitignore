@@ -1,0 +1,17 @@
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+vendor/
+Gemfile.lock
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*~
+*.log 
