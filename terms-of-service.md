@@ -99,8 +99,8 @@ These Terms are governed by the laws of [Your Jurisdiction], without regard to c
 ### 13. Contact Information
 
 For questions about these Terms:
-- Email: support@sugaryple.com
-- Address: [Your Company Address]
+- Email: sugaryple2023@gmail.com
+- Address: N&E BLD.6F, 1-12-4, Ginza, Chuo Ku, Tokyo To, 104-0061, Japan
 
 ---
 
@@ -191,8 +191,8 @@ SafeQR은 다음을 제공하는 QR 코드 스캐너 애플리케이션입니다
 ### 13. 연락처 정보
 
 본 약관에 대한 문의:
-- 이메일: support@sugaryple.com
-- 주소: [회사 주소]
+- 이메일: sugaryple2023@gmail.com
+- 주소: N&E BLD.6F, 1-12-4, Ginza, Chuo Ku, Tokyo To, 104-0061, Japan
 
 ---
 
