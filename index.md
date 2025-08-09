@@ -22,8 +22,8 @@ SafeQR is a secure QR code scanner that prioritizes your safety with real-time U
 ## Contact Us
 
 If you have any questions about our policies:
-- **Email**: privacy@sugaryple.com
-- **Support**: support@sugaryple.com
+- **Email**: sugaryple2023@gmail.com
+- **Support**: sugaryple2023@gmail.com
 
 ---
 
