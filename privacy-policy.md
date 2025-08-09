@@ -21,9 +21,9 @@ SafeQR ("we," "us," or "our") is committed to protecting your privacy. This Priv
 
 **Data Controller Contact Information:**
 - Company: Sugaryple
-- Email: privacy@sugaryple.com
-- Address: [Your Company Address]
-- Data Protection Officer: dpo@sugaryple.com
+- Email: sugaryple2023@gmail.com
+- Address: N&E BLD.6F, 1-12-4, Ginza, Chuo Ku, Tokyo To, 104-0061, Japan
+- Data Protection Officer: sugaryple2023@gmail.com
 
 ### 2. Information We Collect
 
@@ -326,9 +326,9 @@ SafeQR은 16세 미만의 아동을 대상으로 하지 않습니다. 당사는 
 
 개인정보 관련 질문이나 권리 행사를 위해:
 
-- **이메일**: privacy@sugaryple.com
-- **데이터 보호 책임자**: dpo@sugaryple.com
-- **우편 주소**: [회사 주소]
+- **이메일**: sugaryple2023@gmail.com
+- **데이터 보호 책임자**: sugaryple2023@gmail.com
+- **우편 주소**: N&E BLD.6F, 1-12-4, Ginza, Chuo Ku, Tokyo To, 104-0061, Japan
 
 ### 14. 감독 기관
 
