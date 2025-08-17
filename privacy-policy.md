@@ -6,7 +6,7 @@ permalink: /privacy-policy/
 
 # SafeQR Privacy Policy / SafeQR 개인정보처리방침
 
-*Last updated: January 15, 2025 / 최종 업데이트: 2025년 1월 15일*
+*Last updated: January 17, 2025 / 최종 업데이트: 2025년 1월 17일*
 
 [English](#english) | [한국어](#korean)
 
@@ -45,6 +45,10 @@ SafeQR ("we," "us," or "our") is committed to protecting your privacy. This Priv
 - **Security Data**:
   - URLs scanned (for security verification only)
   - Security check results
+- **Crash and Error Data**:
+  - App crash reports and error logs
+  - Domain portion of URLs when errors occur (scheme and host only, no paths or parameters)
+  - Error context information (processed via Firebase Crashlytics)
 
 #### 2.3 Information from Third-Party Services
 - **Firebase Analytics**: Anonymous usage statistics
@@ -76,6 +80,10 @@ We use the collected information for:
   - Protect against malicious URLs
   - Prevent fraud and abuse
   - Ensure App security
+- **App Stability and Debugging**:
+  - Analyze crash reports to improve app stability
+  - Track error patterns to fix bugs
+  - Monitor app performance issues
 - **Communication**:
   - Respond to support requests
   - Send important service updates
@@ -88,6 +96,7 @@ We share your information only in the following circumstances:
 #### 5.1 Service Providers
 - **Google** (WebRisk API): For URL security verification
 - **Firebase** (Google): For analytics and app functionality
+- **Firebase Crashlytics** (Google): For crash reporting and error tracking (domain information only, no full URLs or personal data)
 - **RevenueCat**: For subscription management
 - **Apple/Google**: For app distribution and in-app purchases
 
@@ -127,7 +136,7 @@ You have the following rights regarding your personal data:
 - **Right to Object**: Object to certain types of processing
 - **Right to Withdraw Consent**: Where processing is based on consent
 
-To exercise these rights, contact us at privacy@sugaryple.com.
+To exercise these rights, contact us at sugaryple2023@gmail.com.
 
 ### 9. Data Security
 
@@ -138,6 +147,7 @@ We implement appropriate technical and organizational measures to protect your d
 - **Regular Security Audits**: Ongoing security assessments
 - **Secure Storage**: Using Flutter Secure Storage for sensitive data
 - **Firebase App Check**: API integrity verification
+- **Privacy-Preserving Error Reporting**: Only domain portions of URLs are sent to crash reporting services, excluding paths and query parameters
 
 ### 10. Children's Privacy
 
@@ -164,9 +174,9 @@ We may update this Privacy Policy periodically. We will notify you of material c
 
 For privacy-related questions or to exercise your rights:
 
-- **Email**: privacy@sugaryple.com
-- **Data Protection Officer**: dpo@sugaryple.com
-- **Postal Address**: [Your Company Address]
+- **Email**: sugaryple2023@gmail.com
+- **Data Protection Officer**: sugaryple2023@gmail.com
+- **Postal Address**: N&E BLD.6F, 1-12-4, Ginza, Chuo Ku, Tokyo To, 104-0061, Japan
 
 ### 14. Supervisory Authority
 
@@ -183,9 +193,9 @@ SafeQR("당사", "우리" 또는 "저희")은 귀하의 개인정보 보호를 �
 
 **개인정보처리자 연락처:**
 - 회사명: Sugaryple
-- 이메일: privacy@sugaryple.com
-- 주소: [회사 주소]
-- 데이터 보호 책임자: dpo@sugaryple.com
+- 이메일: sugaryple2023@gmail.com
+- 주소: N&E BLD.6F, 1-12-4, Ginza, Chuo Ku, Tokyo To, 104-0061, Japan
+- 데이터 보호 책임자: sugaryple2023@gmail.com
 
 ### 2. 수집하는 정보
 
@@ -207,6 +217,10 @@ SafeQR("당사", "우리" 또는 "저희")은 귀하의 개인정보 보호를 �
 - **보안 데이터**:
   - 스캔된 URL (보안 확인 목적으로만)
   - 보안 검사 결과
+- **충돌 및 오류 데이터**:
+  - 앱 충돌 보고서 및 오류 로그
+  - 오류 발생 시 URL의 도메인 부분만 (스키마와 호스트만 포함, 경로나 파라미터 제외)
+  - 오류 컨텍스트 정보 (Firebase Crashlytics를 통해 처리)
 
 #### 2.3 제3자 서비스로부터의 정보
 - **Firebase Analytics**: 익명 사용 통계
@@ -238,6 +252,10 @@ SafeQR("당사", "우리" 또는 "저희")은 귀하의 개인정보 보호를 �
   - 악성 URL로부터 보호
   - 사기 및 남용 방지
   - 앱 보안 보장
+- **앱 안정성 및 디버깅**:
+  - 앱 안정성 개선을 위한 충돌 보고서 분석
+  - 버그 수정을 위한 오류 패턴 추적
+  - 앱 성능 문제 모니터링
 - **커뮤니케이션**:
   - 지원 요청 응답
   - 중요한 서비스 업데이트 전송
@@ -250,6 +268,7 @@ SafeQR("당사", "우리" 또는 "저희")은 귀하의 개인정보 보호를 �
 #### 5.1 서비스 제공업체
 - **Google** (WebRisk API): URL 보안 확인
 - **Firebase** (Google): 분석 및 앱 기능
+- **Firebase Crashlytics** (Google): 충돌 보고 및 오류 추적 (도메인 정보만 포함, 전체 URL이나 개인정보 제외)
 - **RevenueCat**: 구독 관리
 - **Apple/Google**: 앱 배포 및 인앱 구매
 
@@ -289,7 +308,7 @@ SafeQR("당사", "우리" 또는 "저희")은 귀하의 개인정보 보호를 �
 - **반대권**: 특정 유형의 처리에 반대
 - **동의 철회권**: 동의 기반 처리의 경우
 
-이러한 권리를 행사하려면 privacy@sugaryple.com으로 연락하십시오.
+이러한 권리를 행사하려면 sugaryple2023@gmail.com으로 연락하십시오.
 
 ### 9. 데이터 보안
 
@@ -300,6 +319,7 @@ SafeQR("당사", "우리" 또는 "저희")은 귀하의 개인정보 보호를 �
 - **정기 보안 감사**: 지속적인 보안 평가
 - **안전한 저장**: 민감한 데이터를 위한 Flutter Secure Storage 사용
 - **Firebase App Check**: API 무결성 확인
+- **개인정보 보호를 위한 오류 보고**: 충돌 보고 서비스에는 URL의 도메인 부분만 전송되며, 경로나 쿼리 파라미터는 제외
 
 ### 10. 아동의 개인정보
 
